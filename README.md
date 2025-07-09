@@ -7,6 +7,12 @@ https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
 Notes on Google Drive: <br>
 https://drive.google.com/drive/folders/1goFLWn5RNhQvN4frW9iLad7obJ153AJg?usp=drive_link
 
+## Type of Notes
+1) Full notes (found in the folder)
+2) Summary
+3) Questions
+<br> All of the notes are available in pdf and .docx 
+
 ## My Exam Results
 Automation & Programmbility: 80% <br>
 Network Access:              80% <br>
