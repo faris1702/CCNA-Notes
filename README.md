@@ -19,7 +19,7 @@ Network Fundamentals:        65% <br>
 ## Advice to those taking CCNA
 
 <b>1) Make sure the fundamental knowledge is easy for you to explain </b><br>
-You need to have a very good understanding of how each of the topics mentioned in the CCNA exam topics. You should have a good understanding if you can answer the questions in my notes.
+You need to have a very good understanding of how each of the topics mentioned in the CCNA exam topics function (Why/How does it work). You should have a good understanding if you can answer the questions in my notes.
 
 <b>2) Purchase Boson ExSim if possible </b><br>
 There are some additional content in the exams that are extremely beneficial which is not in JITL videos. I highly recommend purchasing it if you can afford it. You should also try to do the exams only after going through all of the JITL videos. Try to read and understand the questions you got wrong or questions that you are doubtful. Their explanations are really good to fully understand the concept.<br><br>
