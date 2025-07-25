@@ -22,6 +22,8 @@ IP Services:                 40% <br>
 Security Fundamentals:       67% <br>
 Network Fundamentals:        65% <br>
 
+## My CCNA Certificate
+![image](Cisco_certified_network_associate_certificate.pdf)
 
 ## Advice to those taking CCNA
 
