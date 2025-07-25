@@ -23,7 +23,7 @@ Security Fundamentals:       67% <br>
 Network Fundamentals:        65% <br>
 
 ## My CCNA Certificate
-![CCNA Cert](Cisco%20Certified%20Network%20Associate%20certificate.pdf)
+![CCNA Cert](https://github.com/faris1702/CCNA-Notes/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
 
 ## Advice to those taking CCNA
 
