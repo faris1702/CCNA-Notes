@@ -23,7 +23,7 @@ Security Fundamentals:       67% <br>
 Network Fundamentals:        65% <br>
 
 ## My CCNA Certificate
-![CCNA Cert](CCNA_Cert.pdf)
+![CCNA Cert](CCNA_Cert-1.png)
 
 ## Advice to those taking CCNA
 
